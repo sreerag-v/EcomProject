@@ -3,14 +3,14 @@
 ECOM is a mini e-commerce application built using the Go programming language and the Gin framework. It offers essential functionalities for browsing, purchasing, and managing products. Explore our seamless integration and efficient development
 ## Used Technologies:
 
-### Language And FreameWork:
+### Language And FrameWork:
 -   Golang
 -   Gin (Freamework)
 - 
   ### Authentication:
 -   JWt
   
-### Database And ORM:
+### Database And ORM(Object Relational Mapping):
 -   Postgres Sql
 -   Gorm
   

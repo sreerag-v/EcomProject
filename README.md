@@ -10,7 +10,7 @@ ECOM is a mini e-commerce application built using the Go programming language an
   ### Authentication:
 -   JWt
   
-### Database And ORM(Object Relational Mapping):
+### Database And ORM (Object Relational Mapping):
 -   Postgres Sql
 -   Gorm
   

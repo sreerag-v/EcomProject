@@ -1,5 +1,5 @@
 
-# Golang-Ecommerce-Backend-Project
+# Ecom RestApi
 ECOM is a mini e-commerce application built using the Go programming language and the Gin framework. It offers essential functionalities for browsing, purchasing, and managing products. Explore our API documentation for seamless integration and efficient development
 # Framework
 

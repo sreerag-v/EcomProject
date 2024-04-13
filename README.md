@@ -22,8 +22,8 @@ ECOM is a mini e-commerce application built using the Go programming language an
 You Can Create The SalesReport And Save Locally, Ive Already Added a Excel File For Demonstration:
 -   Excelize (Go Package)
   
-### System Architecher:
-Used Clean Architecher for File Organisatio:
+### System Architecture:
+Used Clean Architecher for File Organisation:
 - Handler    -> Receives inputs, passes them to Use Cases, and translates outputs.
 - Usecase    -> Orchestrates business logic, interacts with Repositories for data operations.
 - Repository -> Handles data storage and retrieval, abstracting data access for Use Cases.
